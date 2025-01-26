@@ -26,3 +26,6 @@ accountBalance /=2;
 console.log(accountBalance);
 
 //Task 4: String Data Type
+let customerName = 'Jaden';
+let welcomeMessage = 'Welcome';
+console.log(welcomeMessage.concat(',',' ',customerName,'!'));
