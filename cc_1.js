@@ -29,3 +29,10 @@ console.log(accountBalance);
 let customerName = 'Jaden';
 let welcomeMessage = 'Welcome';
 console.log(welcomeMessage.concat(',',' ',customerName,'!'));
+
+//Task 5: Boolean Data Type
+let isLoggedIn = true;
+if (isLoggedIn = true){
+    console.log('User is logged in');
+}else {console.log('User is not logged in');
+}
